@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+//meaningful names of variables and javadocs
 public class Main {
 
     public static void main(String[] args) {
