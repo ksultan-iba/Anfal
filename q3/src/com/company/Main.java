@@ -1,5 +1,6 @@
 package com.company;
 import java.util.Scanner;
+//same documentation issues.
 public class Main {
 
     public static void main(String[] args) {
@@ -16,7 +17,7 @@ public class Main {
                 num = a.nextInt();
 
 
-
+//you missed prininting the numbers that are being multiplied.
                 for(int i=1; i <= arr.length-1; i++)
                 {
                     for (int j=1; j <= arr[0].length-1; j++)
