@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+//submitted code should be indented; javadocs missing; can we avoid code duplication in the method? 
 public class Main {
 
     public static void main(String[] args) {
